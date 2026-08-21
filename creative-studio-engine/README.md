@@ -19,12 +19,22 @@ resultado final.
 creative-studio-engine/
 ├── README.md                          este arquivo
 ├── project-instructions.md            cole em "Project Instructions" no Claude
-└── knowledge/                         suba estes arquivos em "Project Knowledge"
-    ├── suno-style-dictionary.md       gêneros, tags de produção, tags de estrutura
-    ├── camera-dictionary.md           movimentos de câmera (pan, tilt, dolly...)
-    ├── lens-reference.md              lentes, distância focal, profundidade de campo
-    └── lighting-glossary.md           iluminação (golden hour, rim light, neon...)
+├── knowledge/                         suba estes arquivos em "Project Knowledge"
+│   ├── suno-style-dictionary.md       gêneros, tags de produção, tags de estrutura
+│   ├── camera-dictionary.md           movimentos de câmera (pan, tilt, dolly...)
+│   ├── lens-reference.md              lentes, distância focal, profundidade de campo
+│   └── lighting-glossary.md           iluminação (golden hour, rim light, neon...)
+├── projects/emrys/                    implementação específica para o artista EMRYS
+└── automation/                        orquestrador real (API da Claude) do loop
+                                        de agentes — CEO + 7 especialistas, ver
+                                        automation/README.md
 ```
+
+Há duas formas de rodar este sistema: **manual**, colando `project-instructions.md`
+e `knowledge/` num Projeto do Claude Pro (seção abaixo); ou **automatizada**,
+rodando `automation/orchestrator.py`, que chama a API da Claude diretamente e
+executa o pipeline completo (CEO + agentes) sem intervenção manual — ver
+`automation/README.md`.
 
 ## Como configurar no Claude Pro
 
