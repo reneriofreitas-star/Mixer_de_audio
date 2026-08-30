@@ -6,45 +6,40 @@
 > `../01-identidade-visual-emrys.md`, `../00-constituicao-emrys.md` e nas 4 faixas
 > de `../o-mago-renerio/`.
 
-## 1. Nome de usuário (verifique disponibilidade ao criar)
+## 1. Nome de usuário
 
-Ordem de preferência:
-1. `@emrys.oficial`
-2. `@somos.emrys`
-3. `@emrys.mago`
-4. `@emrys.atravessa`
-5. `@ouca.emrys`
+✅ Conta criada: **`@emrys.oficial`** — https://www.instagram.com/emrys.oficial/
 
 ## 2. Categoria de conta
 **Artista/Banda/Músico** (Configurações → Conta → Categoria) — habilita métricas de
 alcance por post e o botão de contato adequado.
 
-## 3. Bio (limite de 150 caracteres — 3 opções prontas)
+## 3. Bio (limite de 150 caracteres)
 
-**Opção A (mística/direta):**
+**Em uso:**
 ```
 EMRYS — o som que atravessa impérios
 Das trevas à coroa 🜂
-Novo: O Mago IV ⬇️
+Ouça "Iniciação" 👇
 ```
 
-**Opção B (foco em mantra/comando):**
+Outras opções, se quiser trocar depois:
 ```
 Eu sou EMRYS.
 Música pra interiorizar e expandir.
 528Hz · Berimbau · Maracatu
 ```
-
-**Opção C (mais pessoal, sem esconder a origem):**
 ```
 EMRYS — Renério Marcos
 Da cadeia à coroa.
 Música que reprograma. Ouça 👇
 ```
 
-Link na bio: use o link do Suno da faixa mais recente, ou um linktree se quiser
-reunir as 4 faixas num só link (recomendado assim que tiver mais de 2 músicas
-publicadas).
+**Link na bio (em uso)**: Hyperfollow da DistroKid — reúne Spotify, Apple Music e
+as outras plataformas de streaming num só link.
+```
+https://distrokid.com/hyperfollow/emrys8/iniciao
+```
 
 ## 4. Foto de perfil
 Gerada em `assets/emrys-profile-picture.png` — enquadramento quadrado com a coroa
