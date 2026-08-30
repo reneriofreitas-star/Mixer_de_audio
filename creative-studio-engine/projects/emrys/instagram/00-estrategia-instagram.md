@@ -67,17 +67,22 @@ não é cortada quando o Instagram arredonda a imagem).
 
 ## 6. Grade de lançamento (primeiros 9 posts)
 
-| # | Pilar | Conteúdo |
-|---|---|---|
-| 1 | Lançamento | Capa + trecho de "O Mago" (a primeira) |
-| 2 | O Verbo | Card: "Eu sou EMRYS. O som que atravessa impérios." |
-| 3 | Lore | O que significa a coroa geométrica flutuante |
-| 4 | Lançamento | Capa + trecho de "O Mago II — A Verdade Liberta" |
-| 5 | Bastidores | Como a letra de uma música nasce (processo, sem revelar ferramentas específicas se preferir manter em segredo) |
-| 6 | Lançamento | Capa + trecho de "O Mago III" |
-| 7 | O Verbo | Card: "O Berimbau é a voz do chão. O Maracatu é o sangue da rua." |
-| 8 | Lore | Por que 528Hz — a afinação sagrada do projeto |
-| 9 | Lançamento | Capa + trecho de "O Mago IV — Vencedor do Inferno" |
+| # | Pilar | Conteúdo | Status |
+|---|---|---|---|
+| 1 | Lançamento | Capa + trecho de "O Mago" (a primeira) | ✅ `assets/referencia-fotorrealista/ref-02-capa-o-mago-vertical.png` |
+| 2 | O Verbo | Card: "Eu sou EMRYS. O som que atravessa impérios." | ✅ `assets/post-02-verbo-impérios.png` |
+| 3 | Lore | O que significa a coroa geométrica flutuante | ✅ Canva — https://www.canva.com/d/0jfOaX7kocS0MYW |
+| 4 | Lançamento | Capa + trecho de "O Mago II — A Verdade Liberta" | ✅ Canva — https://www.canva.com/d/3UEasN6nJxYP2tM |
+| 5 | Bastidores | Como a letra de uma música nasce | ✅ Canva — https://www.canva.com/d/aQcrE_9NdBy708c |
+| 6 | Lançamento | Capa + trecho de "O Mago III" | ✅ Canva — ver lista em `search-designs` ("Post para Instagram - EMRYS...") |
+| 7 | O Verbo | Card: "O Berimbau é a voz do chão. O Maracatu é o sangue da rua." | ✅ `assets/post-07-verbo-berimbau.png` |
+| 8 | Lore | Por que 528Hz — a afinação sagrada do projeto | ✅ `assets/post-08-lore-528hz.png` |
+| 9 | Lançamento | Capa + trecho de "O Mago IV — Vencedor do Inferno" | ✅ `assets/capa-emrys-o-mago-IV.png` (também em `o-mago-renerio/assets/`) |
+
+A grade dos 9 primeiros posts está completa. Os posts 3, 4, 5 e 6 foram gerados no
+estilo fotorrealista (Canva) — abra os links de edição, escolha a variação que
+preferir entre as 4 que cada geração oferece, ajuste texto/posição se quiser, e
+baixe. Os demais já são arquivos locais prontos (enviados por chat).
 
 ## 7. Reels vs. Feed
 Reels (vídeo vertical) puxam mais alcance orgânico que posts estáticos — priorize
