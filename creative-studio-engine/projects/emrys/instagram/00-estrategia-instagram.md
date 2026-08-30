@@ -6,6 +6,14 @@
 > `../01-identidade-visual-emrys.md`, `../00-constituicao-emrys.md` e nas 4 faixas
 > de `../o-mago-renerio/`.
 
+## 0. Links oficiais
+
+| Plataforma | Link |
+|---|---|
+| Instagram | https://www.instagram.com/emrys.oficial/ |
+| Spotify (perfil de artista) | https://open.spotify.com/intl-pt/artist/27MqcKONi51qUVW4qX6DN8 |
+| Hyperfollow (todas as plataformas — usar na bio) | https://distrokid.com/hyperfollow/emrys8/iniciao |
+
 ## 1. Nome de usuário
 
 ✅ Conta criada: **`@emrys.oficial`** — https://www.instagram.com/emrys.oficial/
