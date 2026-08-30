@@ -12,6 +12,7 @@
 |---|---|
 | Instagram | https://www.instagram.com/emrys.oficial/ |
 | Spotify (perfil de artista) | https://open.spotify.com/intl-pt/artist/27MqcKONi51qUVW4qX6DN8 |
+| Apple Music ("Iniciação") | https://music.apple.com/us/album/inicia%C3%A7%C3%A3o/6803403037 |
 | Hyperfollow (todas as plataformas — usar na bio) | https://distrokid.com/hyperfollow/emrys8/iniciao |
 
 ## 1. Nome de usuário
