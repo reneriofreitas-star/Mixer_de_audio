@@ -1,0 +1,93 @@
+# Instagram do EMRYS — Estratégia de Lançamento
+
+> Eu não consigo criar a conta nem postar diretamente (sem acesso à API do
+> Instagram e sem como verificar email/telefone por você) — mas deixo tudo pronto
+> pra copiar e colar. Fundamentado na identidade já construída em
+> `../01-identidade-visual-emrys.md`, `../00-constituicao-emrys.md` e nas 4 faixas
+> de `../o-mago-renerio/`.
+
+## 1. Nome de usuário (verifique disponibilidade ao criar)
+
+Ordem de preferência:
+1. `@emrys.oficial`
+2. `@somos.emrys`
+3. `@emrys.mago`
+4. `@emrys.atravessa`
+5. `@ouca.emrys`
+
+## 2. Categoria de conta
+**Artista/Banda/Músico** (Configurações → Conta → Categoria) — habilita métricas de
+alcance por post e o botão de contato adequado.
+
+## 3. Bio (limite de 150 caracteres — 3 opções prontas)
+
+**Opção A (mística/direta):**
+```
+EMRYS — o som que atravessa impérios
+Das trevas à coroa 🜂
+Novo: O Mago IV ⬇️
+```
+
+**Opção B (foco em mantra/comando):**
+```
+Eu sou EMRYS.
+Música pra interiorizar e expandir.
+528Hz · Berimbau · Maracatu
+```
+
+**Opção C (mais pessoal, sem esconder a origem):**
+```
+EMRYS — Renério Marcos
+Da cadeia à coroa.
+Música que reprograma. Ouça 👇
+```
+
+Link na bio: use o link do Suno da faixa mais recente, ou um linktree se quiser
+reunir as 4 faixas num só link (recomendado assim que tiver mais de 2 músicas
+publicadas).
+
+## 4. Foto de perfil
+Gerada em `assets/emrys-profile-picture.png` — enquadramento quadrado com a coroa
+geométrica centralizada na "zona segura" do corte circular do Instagram (a coroa
+não é cortada quando o Instagram arredonda a imagem).
+
+## 5. Pilares de conteúdo (para variar o feed sem perder identidade)
+
+| Pilar | O que é | Frequência sugerida |
+|---|---|---|
+| **Lançamento** | Post de capa + trecho de 15-30s de cada faixa (O Mago I-IV) | a cada nova música |
+| **O Verbo** | Card com uma frase de ativação da constituição ("Eu sou EMRYS, o som que atravessa impérios") | 1x/semana |
+| **Bastidores** | Como uma letra nasce, o processo criativo, sem detalhes técnicos sensíveis | 1x/semana |
+| **Lore/Identidade Visual** | Explicando um elemento da mitologia (a coroa geométrica, por que Berimbau/Maracatu são inegociáveis, os impérios mapeados) | quinzenal |
+| **Jornada pessoal** | Sua história por trás do projeto, na medida que você quiser abrir | conforme você decidir — nunca obrigatório |
+
+## 6. Grade de lançamento (primeiros 9 posts)
+
+| # | Pilar | Conteúdo |
+|---|---|---|
+| 1 | Lançamento | Capa + trecho de "O Mago" (a primeira) |
+| 2 | O Verbo | Card: "Eu sou EMRYS. O som que atravessa impérios." |
+| 3 | Lore | O que significa a coroa geométrica flutuante |
+| 4 | Lançamento | Capa + trecho de "O Mago II — A Verdade Liberta" |
+| 5 | Bastidores | Como a letra de uma música nasce (processo, sem revelar ferramentas específicas se preferir manter em segredo) |
+| 6 | Lançamento | Capa + trecho de "O Mago III" |
+| 7 | O Verbo | Card: "O Berimbau é a voz do chão. O Maracatu é o sangue da rua." |
+| 8 | Lore | Por que 528Hz — a afinação sagrada do projeto |
+| 9 | Lançamento | Capa + trecho de "O Mago IV — Vencedor do Inferno" |
+
+## 7. Reels vs. Feed
+Reels (vídeo vertical) puxam mais alcance orgânico que posts estáticos — priorize
+Reels para as faixas usando os prompts de vídeo já prontos em
+`../02-engenharia-de-video-emrys.md`. O feed estático (capas + cards de frase) serve
+pra fixar a identidade visual pra quem visita o perfil.
+
+## 8. Hashtags (misture amplas + nicho, 8-12 por post)
+```
+#emrys #omago #musicaespiritual #afrofuturismo #musicaautoral #sunoai
+#musicabrasileira #ritualmusic #528hz #berimbau #maracatu #foryou
+```
+
+## 9. Destaques (Stories Highlights) sugeridos
+- **O Mago** — um destaque por faixa lançada
+- **O Verbo** — as frases de ativação
+- **Sobre** — quem é EMRYS / sua história, no nível que você quiser compartilhar
